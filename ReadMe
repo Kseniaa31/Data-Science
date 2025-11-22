@@ -1,1 +1,16 @@
+🎬 Movie Recommendation System
+This project builds a content-based movie recommendation system using movie metadata.
+The goal is to suggest similar movies based on features such as genre, keywords, cast and description.
 
+📌 Features
+Data preprocessing and feature extraction
+Text vectorization using TF-IDF
+Similarity calculation
+Function to generate movie recommendations
+Exploratory analysis of movie metadata
+
+🛠 Tools Used
+Python · Pandas · NumPy · Scikit-learn · Jupyter Notebook
+
+📁 Main File
+Movie Recommendation.ipynb — complete analysis and recommendation system

@@ -1,1 +1,15 @@
+📊 Interactive Dashboards (Plotly)
+This project contains a set of interactive data dashboards built with Plotly to explore datasets visually.
+The dashboards demonstrate interactive charting, clean layouts and dynamic data exploration.
 
+📌 Features
+Interactive Plotly visualizations
+Dropdowns, filters and user-controlled views
+Multiple charts displayed in a single dashboard
+Clean and simple analytics UI
+
+🛠 Tools Used
+Python · Plotly · Pandas · NumPy · Jupyter Notebook
+
+📁 Main File
+Dashboards.ipynb — includes all interactive dashboard implementations

@@ -1,1 +1,15 @@
+✈️ Airline Ticket Analysis
+This project explores an airline ticket dataset to understand price patterns, key features, and factors influencing ticket costs. 
 
+📊 Main Steps
+Data preprocessing & handling missing values
+Exploratory data analysis
+Visualization of pricing trends
+Feature selection and correlation insights
+Simple ML models for price prediction
+
+🛠 Tools Used
+Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Jupyter Notebook
+
+📁 Main File
+Airline Tickets.ipynb — full analysis and plots

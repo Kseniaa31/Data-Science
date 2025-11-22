@@ -10,7 +10,7 @@ Feature engineering
 Simple forecasting experiments and model evaluation
 
 🛠 Tools Used
-Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Jupyter Notebook
+Python · Pandas · NumPy · Matplotlib · Jupyter Notebook
 
 📁 Main File
 Stock Prices.ipynb — complete analysis, visualizations and modelling steps

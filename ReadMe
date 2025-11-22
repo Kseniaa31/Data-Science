@@ -1,5 +1,4 @@
 📚 Data Science Projects
-
 This is a collection of practical data analysis, machine learning and visualization projects, where each project is stored in its own branch.
 
 ✈️ Airline Ticket Analysis
@@ -14,7 +13,6 @@ Branch: [Movies-Recommendation](https://github.com/Kseniaa31/Data-Science/tree/M
 A content-based movie recommender built using metadata:
 Vectorization & similarity metrics
 Recommendation ranking
-Notebook-based implementation
 
 🔐 Password Strength Classification
 Branch: [Password-Strength](https://github.com/Kseniaa31/Data-Science/tree/Password-Strength)
@@ -38,10 +36,19 @@ Clean UI layouts
 Interactive features for data exploration
 
 🧰 Tools & Technologies
-These projects maily use:
-Python
-Pandas, NumPy
-Scikit-learn
-Matplotlib, Seaborn
-Plotly / Dash
-Jupyter Notebook
+Different tools and technologies are used for different purposes throughout these projects.
+Programming & Analysis:
+-> Python
+-> Jupyter Notebook
+
+Data Manipulation & Cleaning:
+-> Pandas
+-> NumPy
+
+Visualization:
+-> Matplotlib
+-> Seaborn
+-> Plotly (interactive visualizations)
+
+Machine Learning:
+-> Scikit-learn (classification, clustering, model evaluation)

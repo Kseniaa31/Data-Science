@@ -1,1 +1,16 @@
+📉 Stock Prices Analysis
+This project analyzes historical stock price data to explore trends, patterns and simple forecasting approaches.
+The goal is to understand market behavior using visualizations and basic time-based features.
 
+📌 Features
+Data cleaning and preprocessing
+Time-series exploration 
+Visualizations of price history
+Feature engineering
+Simple forecasting experiments and model evaluation
+
+🛠 Tools Used
+Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Jupyter Notebook
+
+📁 Main File
+Stock Prices.ipynb — complete analysis, visualizations and modelling steps

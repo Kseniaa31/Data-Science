@@ -1,1 +1,47 @@
+📚 Data Science Projects
 
+This is a collection of practical data analysis, machine learning and visualization projects, where each project is stored in its own branch.
+
+✈️ Airline Ticket Analysis
+**Branch:** [Airline-Tickets](https://github.com/Kseniaa31/Data-Science/tree/Airline-Tickets)
+Exploratory analysis of airline ticket data:
+Data cleaning & feature engineering
+Visualization of pricing patterns
+Basic ML models
+
+🎬 Movie Recommendation System
+**Branch:** [Movies-Recommendation](https://github.com/Kseniaa31/Data-Science/tree/Movies-Recommendation)
+A content-based movie recommender built using metadata:
+Vectorization & similarity metrics
+Recommendation ranking
+Notebook-based implementation
+
+🔐 Password Strength Classification
+**Branch:** [Password-Strength](https://github.com/Kseniaa31/Data-Science/tree/Password-Strength)
+Machine learning model that predicts the strength of a password:
+Preprocessing of text passwords
+Feature extraction
+Supervised learning & evaluation
+
+📉 Stock Prices Analysis
+**Branch:** [Stock-Prices](https://github.com/Kseniaa31/Data-Science/tree/Stock-Prices)
+Time-series analysis on historical stock data:
+Trend visualization
+Feature engineering
+Simple forecasting experiments
+
+📊 Interactive Dashboards (Plotly)
+**Branch:** [Dashboards](https://github.com/Kseniaa31/Data-Science/tree/Dashboards)
+A collection of interactive visual dashboards:
+Plotly graphing
+Clean UI layouts
+Interactive features for data exploration
+
+🧰 Tools & Technologies
+These projects maily use:
+Python
+Pandas, NumPy
+Scikit-learn
+Matplotlib, Seaborn
+Plotly / Dash
+Jupyter Notebook
